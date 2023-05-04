@@ -1,7 +1,5 @@
-flask
+Flask
 scikit-learn
 pandas
 numpy
 matplotlib
-django
-Jinja2
